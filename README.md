@@ -1,3 +1,5 @@
+Aluno: Vinicius Ribas Bida
+
 LISTA DE CONTATOS
 
 Atividade da Lions em que fazemos um crud para criar uma lista de contatos. Além do código, há 3 perguntas descritivas que serão respondidas no arquivo readme.
